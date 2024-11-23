@@ -1,1 +1,9 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/4j22Em04)
+# Exercícios - Classe e Objeto 
+
+## Livro Batista & Moraes, páginas 78, 79 e 80
+### Questão 1: Escreva um modelo para representar uma lâmpada que está à venda em um supermercado. Que dados devem ser representados por esse modelo?
+Modelo da Lâmpada:
+- Marca
+- Modelo
+- Preço
+- Quantidade em Estoque
