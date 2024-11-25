@@ -23,7 +23,7 @@ Modelo da Lâmpada:
 </p>
 
 #### Erros:
-<p>Na linha 1 o nome da classe está separado por espaços, os nomes não podem conter espaços devem ser únicos.</p>
+<p>Na linha 1 o nome da classe está separado por espaços, os nomes não podem conter espaços, devem ser únicos.</p>
 <p>Não tem os modificadores de acesso especificos, geralmente nos campos é especificados se são públicos, privados ou protegidos  </p>
 
 ### Questão 8: Identificando e explicando os erros na classe abaixo: 
